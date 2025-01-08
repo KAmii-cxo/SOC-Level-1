@@ -1,5 +1,4 @@
-# SOC-Level-1 [_here_](https://tryhackme.com/r/paths)
-
+# SOC Level 1
 This repositaries is my notes and learning process on SOC Level 1 Path by [TryHackMe](https://tryhackme.com/r/paths)
 
 1. **Cyber Defense Framework**
