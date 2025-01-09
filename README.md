@@ -4,5 +4,5 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
 1. **Cyber Defense Framework**
      -  Junior Analyst Intro  
      -  Pyramid of Pain [_here_](https://github.com/KAmii-cxo/Pyramid-of-Pain)
-2. **Cyber Kill Chain**
+     -  Cyber Kill Chain [_here_]()
      - 
