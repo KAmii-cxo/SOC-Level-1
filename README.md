@@ -8,4 +8,5 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
      -  Unified Kill Chain [_here_](https://github.com/KAmii-cxo/Unified-Kill-Chain)
      -  Diamond Model [_here_](https://github.com/KAmii-cxo/Diamond-Model)
      -  MITRE [_here_](https://github.com/KAmii-cxo/MITRE-ATT-CK)
-            - CAR MITRE [_here_](https://github.com/KAmii-cxo/cyber-analytics-repository)
+
+         - CAR MITRE [_here_](https://github.com/KAmii-cxo/cyber-analytics-repository)
