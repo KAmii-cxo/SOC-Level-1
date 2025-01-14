@@ -18,4 +18,5 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
         - Hands-Labs threat detecting Yara Rules Configuration, yarGen and Valhalla Yara Rules
      - OpenCTI [_here_](https://github.com/KAmii-cxo/OpenCTI)
 
+5. **MISP**
           
