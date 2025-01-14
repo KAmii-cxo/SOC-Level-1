@@ -20,4 +20,4 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
 
 5. **MISP**
       - MISP Overview, Dashboards, and Hands-on lab [_here_](https://github.com/KAmii-cxo/MISP)
-      - Friday Overtime Analysis VM [here]() 
+      - Friday Overtime Analysis VM [here](https://github.com/KAmii-cxo/Friday-Overtime-Analysis) 
