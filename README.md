@@ -16,6 +16,6 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
      - YARA [_Google Directory_](https://docs.google.com/document/d/15t-ltxc3rOv8nxS4by9kpoqx9aBmCVlT/edit?usp=drive_link&ouid=102943847364636206838&rtpof=true&sd=true)
         - Configuration on Linux and Windows
         - Hands-Labs threat detecting Yara Rules Configuration, yarGen and Valhalla Yara Rules
-     - OpenCTI[_here_] ()
+     - OpenCTI [_here_](https://github.com/KAmii-cxo/OpenCTI)
 
           
