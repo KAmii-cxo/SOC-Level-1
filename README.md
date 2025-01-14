@@ -19,4 +19,5 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
      - OpenCTI [_here_](https://github.com/KAmii-cxo/OpenCTI)
 
 5. **MISP**
+      - MISP Overview, Dashboards, and Hands-on lab [_here_](https://github.com/KAmii-cxo/MISP)
       - Friday Overtime Analysis VM [here]() 
