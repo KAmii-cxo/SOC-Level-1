@@ -26,4 +26,3 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
       - Traffic Analysis Essentials
       - Snort
       - Snort Challenge - The Basics
-      - 
