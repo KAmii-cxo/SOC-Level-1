@@ -18,6 +18,14 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
         - Hands-Labs threat detecting Yara Rules Configuration, yarGen and Valhalla Yara Rules
      - OpenCTI [_here_](https://github.com/KAmii-cxo/OpenCTI)
 
-5. **MISP**
-      - MISP Overview, Dashboards, and Hands-on lab [_here_](https://github.com/KAmii-cxo/MISP)
-      - Friday Overtime Analysis VM [here](https://github.com/KAmii-cxo/Friday-Overtime-Analysis) 
+     - MISP
+        - MISP Overview, Dashboards, and Hands-on lab [_here_](https://github.com/KAmii-cxo/MISP)
+        - Friday Overtime Analysis VM [here](https://github.com/KAmii-cxo/Friday-Overtime-Analysis)
+
+     - Friday Overtime (TryHackMe) [_here_]()
+  
+   3. Network Security and Traffic Analysis
+      - Traffic Analysis Essentials
+      - Snort
+      - Snort Challenge - The Basics
+      - 
