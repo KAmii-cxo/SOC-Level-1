@@ -26,4 +26,17 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
       - Traffic Analysis Essentials
       - Snort
       - Snort Challenge - The Basics
-      - NetworkMiner 
+      - NetworkMiner
+      - Zeek
+           
+          - Zeek Log Queries
+            
+      - Brim
+
+          - Brim Log Queries
+            
+      - Wiresharks
+     
+           - The Basics
+           - Packet Operations
+           - Traffic Analysis
