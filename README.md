@@ -22,7 +22,7 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
         - MISP Overview, Dashboards, and Hands-on lab [_here_](https://github.com/KAmii-cxo/MISP)
         - Friday Overtime Analysis VM [here](https://github.com/KAmii-cxo/Friday-Overtime-Analysis)
   
-   3. Network Security and Traffic Analysis
+3. **Network Security and Traffic Analysis** [_Google Directory_](https://drive.google.com/drive/folders/1gklY8wbJSyNy7uBzD4lz0ivO4u5qXnr3?usp=drive_link)
       - Traffic Analysis Essentials
       - Snort
       - Snort Challenge - The Basics
@@ -30,3 +30,22 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
       - Zeek            
       - Brim            
       - Wiresharks
+  
+4. **Endpoint Security Monitoring [_Google Directory_](https://drive.google.com/drive/folders/1-_d2HBVCcWWXjyCyEAJMjfZLFP22YGPV?usp=drive_link)
+     - Core Windows Processes
+     - Sysinternals
+     - Windows Event Logs
+     - Sysmon
+     - OSquery: The basics
+     - Wazuh
+     - MOnday Monitor
+     - Retracted
+
+5. SIEM [_Google Directory_](https://drive.google.com/drive/folders/1LC4BPHQCmXeFCQLjRMn-KdSuO2z7lkRn?usp=drive_link)
+     - Introduction to SIEW
+     - Investigating with ELK 101
+     - ItsBitsy
+     - Splunk: Basics
+     - Incident Handling with Splunk
+     - Investigating with Splunk
+     - Benign
