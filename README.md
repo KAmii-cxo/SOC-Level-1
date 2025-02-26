@@ -75,6 +75,5 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
 
 8. **SOC Level 1 Capstone Challenge**
      - Tempest
-     - Boogeyman 1
-     - Boogeyman 2
-     - Boogeyman 3
+     - Boogeyman 1 2 3
+   
