@@ -31,7 +31,7 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
       - Brim            
       - Wiresharks
   
-4. **Endpoint Security Monitoring [_Google Directory_](https://drive.google.com/drive/folders/1-_d2HBVCcWWXjyCyEAJMjfZLFP22YGPV?usp=drive_link)
+4. **Endpoint Security Monitoring** [_Google Directory_](https://drive.google.com/drive/folders/1-_d2HBVCcWWXjyCyEAJMjfZLFP22YGPV?usp=drive_link)
      - Core Windows Processes
      - Sysinternals
      - Windows Event Logs
@@ -41,7 +41,7 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
      - MOnday Monitor
      - Retracted
 
-5. SIEM [_Google Directory_](https://drive.google.com/drive/folders/1LC4BPHQCmXeFCQLjRMn-KdSuO2z7lkRn?usp=drive_link)
+5. **SIEM** [_Google Directory_](https://drive.google.com/drive/folders/1LC4BPHQCmXeFCQLjRMn-KdSuO2z7lkRn?usp=drive_link)
      - Introduction to SIEW
      - Investigating with ELK 101
      - ItsBitsy
@@ -50,7 +50,7 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
      - Investigating with Splunk
      - Benign
 
-6. Digital Forensics and Incident Response
+6. **Digital Forensics and Incident Response**
      - Windows Forensics 1 & 2
      - Linux Forensics
      - Autopsy
@@ -65,7 +65,7 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
      - Critical
      - Secret Recipe
 
-7. Phishing
+7. **Phishing**
      - Phishing Analysis Fundementals
      - Phishing Emails in Action
      - Phishing Analysis Tools
@@ -73,7 +73,7 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
      - The Greenholt Phish
      - Snapped Phish-ing Line
 
-8. SOC Level 1 Capstone Challenge
+8. **SOC Level 1 Capstone Challenge**
      - Tempest
      - Boogeyman 1
      - Boogeyman 2
