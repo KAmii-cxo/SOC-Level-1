@@ -49,3 +49,32 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
      - Incident Handling with Splunk
      - Investigating with Splunk
      - Benign
+
+6. Digital Forensics and Incident Response
+     - Windows Forensics 1 & 2
+     - Linux Forensics
+     - Autopsy
+     - Redline
+     - KAPE
+     - Volatility
+     - Velociraptor
+     - TheHive Project
+     - Intro to Malware Analysis
+     - Unattended
+     - Disgruntled
+     - Critical
+     - Secret Recipe
+
+7. Phishing
+     - Phishing Analysis Fundementals
+     - Phishing Emails in Action
+     - Phishing Analysis Tools
+     - Phishing Preventation
+     - The Greenholt Phish
+     - Snapped Phish-ing Line
+
+8. SOC Level 1 Capstone Challenge
+     - Tempest
+     - Boogeyman 1
+     - Boogeyman 2
+     - Boogeyman 3
