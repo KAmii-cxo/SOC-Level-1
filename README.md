@@ -1,26 +1,24 @@
 # SOC Level 1 TryHackMe
 This repositaries is my notes and learning process on SOC Level 1 Path by [TryHackMe](https://tryhackme.com/r/paths)
 
-1. **Cyber Defense Framework**
+1. **Cyber Defense Framework** [_Google Directory_](https://drive.google.com/drive/folders/1CkU1_vIQU1tc5TV-jMvhEFeH5BjG6eXh?usp=drive_link)
      -  Junior Analyst Intro  
-     -  Pyramid of Pain [_here_](https://github.com/KAmii-cxo/Pyramid-of-Pain)
-     -  Cyber Kill Chain [_here_](https://github.com/KAmii-cxo/Cyber-Kill-Chain)
-     -  Unified Kill Chain [_here_](https://github.com/KAmii-cxo/Unified-Kill-Chain)
-     -  Diamond Model [_here_](https://github.com/KAmii-cxo/Diamond-Model)
-     -  MITRE [_here_](https://github.com/KAmii-cxo/MITRE-ATT-CK)
-
-         - CAR MITRE [_here_](https://github.com/KAmii-cxo/cyber-analytics-repository)
-         - ATT&CK MITRE Framework [_Google Directory_](https://docs.google.com/document/d/1aUVHQrzFAkqdebzNEIKLWSApbIhnS0S9/edit?usp=drive_link&ouid=102943847364636206838&rtpof=true&sd=true)
-
-2. **Cyber Threat Intelligence**
-     - YARA [_Google Directory_](https://docs.google.com/document/d/15t-ltxc3rOv8nxS4by9kpoqx9aBmCVlT/edit?usp=drive_link&ouid=102943847364636206838&rtpof=true&sd=true)
+     -  Pyramid of Pain 
+     -  Cyber Kill Chain 
+     -  Unified Kill Chain 
+     -  Diamond Model 
+     -  MITRE
+         - CAR MITRE 
+         - ATT&CK MITRE Framework
+           
+2. **Cyber Threat Intelligence** [_Google Directory_](https://drive.google.com/drive/folders/1Sp-F5DAhKr89WbzYzKqq4WvdWviQMLYn?usp=drive_link)
+     - YARA 
         - Configuration on Linux and Windows
         - Hands-Labs threat detecting Yara Rules Configuration, yarGen and Valhalla Yara Rules
-     - OpenCTI [_here_](https://github.com/KAmii-cxo/OpenCTI)
-
+     - OpenCTI 
      - MISP
-        - MISP Overview, Dashboards, and Hands-on lab [_here_](https://github.com/KAmii-cxo/MISP)
-        - Friday Overtime Analysis VM [here](https://github.com/KAmii-cxo/Friday-Overtime-Analysis)
+        - MISP Overview, Dashboards, and Hands-on lab
+        - Friday Overtime Analysis VM 
   
 3. **Network Security and Traffic Analysis** [_Google Directory_](https://drive.google.com/drive/folders/1gklY8wbJSyNy7uBzD4lz0ivO4u5qXnr3?usp=drive_link)
       - Traffic Analysis Essentials
@@ -50,8 +48,8 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
      - Investigating with Splunk
      - Benign
 
-6. **Digital Forensics and Incident Response**
-     - Windows Forensics 1 & 2
+6. **Digital Forensics and Incident Response** [_Google Directory_](https://drive.google.com/drive/folders/1bUwFCJOC5L1HNR-AV4LOEh5JeyI3w7OQ?usp=drive_link)
+     - Windows Forensics 1 & 2 
      - Linux Forensics
      - Autopsy
      - Redline
@@ -65,7 +63,7 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
      - Critical
      - Secret Recipe
 
-7. **Phishing**
+7. **Phishing** [_Google Directory_](https://drive.google.com/drive/folders/110cEFUGCoR6RyK9ncapCsVzpvgCuxX1H?usp=drive_link)
      - Phishing Analysis Fundementals
      - Phishing Emails in Action
      - Phishing Analysis Tools
@@ -73,7 +71,7 @@ This repositaries is my notes and learning process on SOC Level 1 Path by [TryHa
      - The Greenholt Phish
      - Snapped Phish-ing Line
 
-8. **SOC Level 1 Capstone Challenge**
+8. **SOC Level 1 Capstone Challenge** [_Google Directory_](https://drive.google.com/drive/folders/171VQA5dBVg5cOD-asPcyM8WfRgyPVgZn?usp=drive_link)
      - Tempest
      - Boogeyman 1 2 3
    
